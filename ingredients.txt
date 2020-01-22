@@ -3,3 +3,4 @@ salt
 onions
 limes
 cilnatro
+You might want more ingredients, like a tomato or pepper.
